@@ -1,5 +1,6 @@
 # DevOps-Project-Multi-Tier-Bank-Application-Pod-based-Azure
 
+![image](https://github.com/user-attachments/assets/cd5b4cdc-9432-4b46-890b-3a3cf850f2f9)
 
 
 
